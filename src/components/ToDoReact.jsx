@@ -29,7 +29,7 @@ function ToDoReact() {
             <div className="bg-white shadow-lg rounded-3xl m-4 p-4 lg:p-16 items-center">
                 <h1 className="text-3xl font-bold text-center text-gray-900">ReactTarefas 😁</h1>
                 <p className="text-gray-500 text-sm text-center mb-6">Não esqueça suas tarefas, anote aqui e esqueça que anotou !!</p>
-                <div className="mb-4 flex">
+                <div className="mb-4 flex items-center justify-center">
                     <input
                         value={input}
                         onChange={(e) => setInput(e.target.value)}
