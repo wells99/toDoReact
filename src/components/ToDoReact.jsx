@@ -26,7 +26,7 @@ function ToDoReact() {
 
     return (
         <div className="h-screen flex items-start pt-10 justify-center bg-gradient-to-r from-blue-600 to-emerald-400">
-            <div className="bg-white shadow-lg rounded-3xl m-4 p-4 lg:p-16 lg:items-center">
+            <div className="bg-white shadow-lg rounded-3xl m-4 p-4 lg:p-16 items-center">
                 <h1 className="text-3xl font-bold text-center text-gray-900">ReactTarefas 😁</h1>
                 <p className="text-gray-500 text-sm text-center mb-6">Não esqueça suas tarefas, anote aqui e esqueça que anotou !!</p>
                 <div className="mb-4 flex">
