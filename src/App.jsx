@@ -1,6 +1,4 @@
 import ToDoReact from "./components/ToDoReact"
-import { SpeedInsights } from "@vercel/speed-insights/next"
-
 
 function App() {
  
@@ -8,7 +6,6 @@ function App() {
   return (
     <>
      <ToDoReact />
-     {SpeedInsights}
     </>
   )
 }
