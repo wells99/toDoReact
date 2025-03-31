@@ -78,7 +78,9 @@ function ToDoReact() {
                         </li>
                     ))}
                 </ul>
-                <span>https://perfilreact.onrender.com </span>
+                <span className="flex items-center justify-end grow text-xl font-semibold text-gray-400 underline "><a 
+                
+                href="https://perfilreact.onrender.com">Desenvolvido por wells99 </a> </span>
             </div>
         </div>
     );
