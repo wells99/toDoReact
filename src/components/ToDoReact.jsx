@@ -78,8 +78,8 @@ function ToDoReact() {
                         </li>
                     ))}
                 </ul>
+                <span>https://perfilreact.onrender.com </span>
             </div>
-<span>https://perfilreact.onrender.com </span>
         </div>
     );
 }
